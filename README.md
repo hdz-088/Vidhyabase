@@ -1,10 +1,14 @@
-# Vidhyabase
+<p align="center">
+   <img src="src/construction.png" width="100%">
+</p>
 
-It is a Software related Website. During our BCA 2nd Semester we were given Project to make in Web Development Field. So our team had made a simple multi-paged, software landing page. 
+
+## 🫱🏻‍🫲🏻 Connect With Me
+
+- Portfolio: <a href="https://hdzala.vercel.app/?ref=github">Portfolio</a>
+- Other Projects: <a href="https://hdz-projectvault.vercel.app/">Project Vault</a>
+- Email: <a href="mailto:hdz088@outlook.com">hdz088@outlook.com</a>
+- Instagram: <a href="https://instagram.com/hdz_088">hdz_088</a>
+- LinkedIn: <a href="https://linkedin.com/in/hdz088/">hdz088</a>
 
 ---
-
-**Socials:**
-- [Portfolio Site](https://hdz-088.github.io/hdzala/)
-- [GitHub](https://github.com/hdz-088/)
-- [LinkedIn](https://www.linkedin.com/in/hdz088/)
