@@ -1,14 +1,8 @@
-<p align="center">
-   <img src="src/construction.png" width="100%">
-</p>
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🫱🏻‍🫲🏻 Connect With Me
+Currently, two official plugins are available:
 
-- Portfolio: <a href="https://hdzala.vercel.app/?ref=github">Portfolio</a>
-- Other Projects: <a href="https://hdz-projectvault.vercel.app/">Project Vault</a>
-- Email: <a href="mailto:hdz088@outlook.com">hdz088@outlook.com</a>
-- Instagram: <a href="https://instagram.com/hdz_088">hdz_088</a>
-- LinkedIn: <a href="https://linkedin.com/in/hdz088/">hdz088</a>
-
----
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
